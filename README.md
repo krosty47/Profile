@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/christian-coriasco-b5694558/" target="_blank"><img align="center" src="./assets/images/linkedin-logo.png" alt="krosty47" height="30" width="auto" />🤝 My linkedin profile</a>
 </p>
 <p align="left">
-<a href="mailto:julianvazquez042@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="c_coriasco@hotmail.com.com" height="30" width="auto" />📧 c_coriasco@hotmail.com.com</a>
+<a href="mailto:c_coriasco@hotmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="c_coriasco@hotmail.com.com" height="30" width="auto" />📧 c_coriasco@hotmail.com</a>
 </p>
 
 <h3 align="center">Technologies I've learned && I'm learning:</h3>
