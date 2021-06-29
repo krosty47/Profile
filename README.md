@@ -4,7 +4,7 @@
 
 🙌 I’m currently working on the final project of Henry's academy.
 
-👨‍🎓 I want to learn **Python, Next.JS, No-SQL Databases, Angular !**
+👨‍🎓 I want to learn **Python, Next.JS, Angular, React Native !**
 
 🎥 My hobbies are:
  - Listening to music;
