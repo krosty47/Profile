@@ -2,15 +2,12 @@
 <img align='center' src='./assets/images/banner.gif' alt='My name is Christian Coriasco.' />
 </p> -->
 
-🙌 I’m currently working on the final project of Henry's academy.
+🙌 I’m currently working at W3ITS as a Front end developer.
 
-👨‍🎓 I want to learn **Python, Next.JS, Angular, React Native !**
 
 🎥 My hobbies are:
  - Listening to music;
- - Reading fiction books;
  - Running;
- - Playing tennis;
  - Playing video games;
 
 
