@@ -2,7 +2,7 @@
 <img align='center' src='./assets/images/banner.gif' alt='My name is Christian Coriasco.' />
 </p> -->
 
-🙌 I’m currently working at W3ITS as a Front end developer.
+🙌 I’m currently working at Halo Media as a Full Stack developer.
 
 
 🎥 My hobbies are:
